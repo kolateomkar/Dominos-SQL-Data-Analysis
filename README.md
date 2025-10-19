@@ -31,7 +31,7 @@ Performed key cleaning and validation steps:
 - Fixed inconsistent date formats and email patterns.
 - Replaced invalid numeric entries (e.g., negative quantities).
 
-> 📜 Script: [`cleaning/dominosanalaysis(cleaningdata).sql`](cleaning/dominosanalaysis(cleaningdata).sql)
+> 📜 Script: [`cleaning/dominosanalaysis(cleaningdata).sql`](Dominos-SQL-Data-Aanalysis/cleaning/dominosanalaysis(cleaningdata).sql)
 
 ---
 
