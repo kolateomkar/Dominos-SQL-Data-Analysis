@@ -101,7 +101,7 @@ Segment customers as **High Value** or **Regular** based on total spending.
 ### 20️⃣ Repeat Customer Rate
 Calculate repeat vs one-time customers.
 
-> 📊 Script: [`analysis/dominosanalysis(casestudies).sql`](analysis/dominosanalysis(casestudies).sql)
+> 📊 Script: [`analysis/dominosanalysis(casestudies).sql`](Dominos-SQL-Data-Aanalysis/analysis/dominosanalysis(casestudies).sql)
 
 ---
 
